@@ -72,6 +72,7 @@ def play_game():
         computer = "X"
         human = "O"
     else:
+        
         print("Choose between X and O")
 
     starter = input(

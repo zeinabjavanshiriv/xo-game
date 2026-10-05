@@ -44,6 +44,6 @@ game logic
 
 How to run:
 Make sure python 3 installed
-Clone https://github.com/zeinabjavanshiriv/xo game.git
+Clone https://github.com/zeinabjavanshiriv/xo-game.git
 
 ----make sure to shine my silver star----
